@@ -1,0 +1,42 @@
+# 编译和打包文件
+*.exe
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+
+# 临时文件
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日志文件
+*.log
+
+# 环境变量文件
+.env
+.venv
+env/
+venv/
+
+# 测试覆盖率
+.coverage
+htmlcov/
+
+# 其他
+*.bak
+*.orig

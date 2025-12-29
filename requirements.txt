@@ -1,0 +1,15 @@
+# ZeroLossIntro 依赖
+# 本项目主要依赖系统工具，Python 标准库即可运行
+
+# Python 3.6+ 标准库已包含：
+# - subprocess
+# - json
+# - argparse
+# - pathlib
+# - tempfile
+# - shutil
+
+# 外部依赖（需手动安装）：
+# - ffmpeg (需添加到系统 PATH)
+# - ffprobe (通常随 ffmpeg 一起安装)
+
